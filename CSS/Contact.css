@@ -1,0 +1,144 @@
+#contact{
+    position: relative;
+    top: -2vh;
+
+    background-color: rgb(248, 248, 248);
+    padding: 1vh;
+    margin: 1vh;
+    border-radius: 1vh;
+    border: 1px black solid;
+}
+
+#Fname{
+    margin-left: 1vh;
+    padding-left: 1vh;
+
+    width: 50vw;
+    height: 3vh;
+
+    background-color: white;
+
+    border: 0.1vh black solid;
+}
+#FnameL{
+    margin-left: 1vh;
+    
+    width: 50vw;
+    height: 3vh;
+}
+
+#Lname{
+    margin-left: 1vh;
+    padding-left: 1vh;
+
+    width: 50vw;
+    height: 3vh;
+
+    background-color: white;
+
+    border: 0.1vh black solid;
+}
+#LnameL{
+    margin-left: 1vh;
+
+    width: 50vw;
+    height: 3vh;
+}
+
+#email{
+    margin-left: 1vh;
+    padding-left: 1vh;
+
+    width: 50vw;
+    height: 3vh;
+
+    background-color: white;
+
+    border: 0.1vh black solid;
+}
+#emailL{
+    margin-left: 1vh;
+
+    width: 60vw;
+    height: 3vh;
+}
+
+#main{
+    margin-left: 1vh;
+    padding-left: 1vh;
+    padding-top: 0.5vh;
+
+    width: 75vw;
+    height: 27vh;
+    max-width: 75vw;
+    max-height: 27vh;
+
+
+    background-color: white;
+
+    border: 0.1vh black solid;
+}
+#mainL{
+    margin-left: 1vh;
+
+    width: 100vh;
+    height: 3vh;
+}
+
+#submit{
+    width: 20vh;
+    height: 7vh;
+
+    margin-left: 1vh;
+
+    background-color: white;
+    border: 0.1vh  black solid;
+}
+#submit:hover{
+    background-color: rgb(177, 177, 177);
+}
+
+#tijden{
+    position: absolute;
+    left: 78vw;
+    top: -1vh;
+
+    width: 15vw;
+    height: 20vh;
+    
+    background-color: rgb(248, 248, 248);
+    padding-left: 1.5vw;
+
+    border-radius: 1vh;
+    border: 1px black solid;
+}
+
+#phone{
+    position: absolute;
+    left: 78vw;
+    top: 19.5vh;
+
+    width: 15vw;
+    height: 20vh;
+    
+    background-color: rgb(248, 248, 248);
+    padding-left: 1.5vw;
+
+    border-radius: 1vh;
+    border: 1px black solid;
+}
+
+#adderes{
+    position: absolute;
+    left: 78vw;
+    top: 40vh;
+
+    width: 15vw;
+    height: 20vh;
+    
+    background-color: rgb(248, 248, 248);
+    padding-left: 1.5vw;
+
+    border-radius: 1vh;
+    border: 1px black solid;
+}

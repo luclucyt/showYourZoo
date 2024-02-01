@@ -1,0 +1,29 @@
+#divall {
+    position: absolute;
+    margin-top: 130px;
+    margin-bottom: 5%;
+    width: 100%;
+}
+
+#container {
+    margin-top: 0.5vh;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#stream{
+    width: 55vw;
+    height: 60vh;
+}
+
+#name{
+    width: 100%;
+    text-align: center;
+}
+
+#description{
+    width: 100%;
+    text-align: center;
+}

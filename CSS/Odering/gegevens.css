@@ -1,0 +1,52 @@
+#form1{
+    background-color: rgb(240, 240, 240);
+    width: 45vw;
+    height: auto;
+
+    position: relative;
+    left: 30vw;
+
+    padding-top: 15px;
+}
+#name{
+    margin-left: 0.5vw;
+    padding-left: 0.5vw;
+    width: 40vw;
+    height: 3vh;
+    border: 0pc transparent solid;
+}
+#mail{
+    margin-left: 0.5vw;
+    padding-left: 0.5vw;
+    width: 40vw;
+    height: 3vh;
+    border: 0pc transparent solid;
+}
+#city{
+    margin-left: 0.5vw;
+    padding-left: 0.5vw;
+    width: 40vw;
+    height: 3vh;
+    border: 0pc transparent solid;
+}
+#addres{
+    margin-left: 0.5vw;
+    padding-left: 0.5vw;
+    width: 40vw;
+    height: 3vh;
+    border: 0pc transparent solid;
+}
+
+#submit{
+    width: 20vh;
+    height: 7vh;
+
+    margin-left: 1vh;
+    margin-bottom: 3vh;
+
+    background-color: rgb(238, 238, 238);
+    border: 0.1vh  black solid;
+}
+#submit:hover{
+    background-color: rgb(177, 177, 177);
+}

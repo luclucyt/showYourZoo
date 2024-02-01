@@ -1,0 +1,83 @@
+#divall 
+
+
+
+#tekst {
+    font-weight: bold;
+    font-size: 6vh ;
+    margin-top: 70px;
+    margin-left: 5vw;
+    text-decoration: underline;
+}
+
+#eee {
+    display: flex;
+}
+
+#tekst2 {
+    margin-top: 2vw;
+    margin-left: 8vw;
+}
+
+#prijzen {
+    position: absolute;
+    left: 60vw;
+    width: 30vw;
+    height: 60vh;
+    background-color: lightgray;
+    border: 3px gray solid;
+    border-radius: 15%;
+    padding: 2vw;
+}
+
+h2 {
+    font-size: 4vh;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+#number {
+    margin-left: 14vw;
+    margin-right: 14vw;
+    height: 8vh;
+    width: 60px;
+    font-size: 7vh;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+#buttons {
+    border-top: 2px solid black;
+    width: 30vw;
+    height: auto;
+    margin-top: 3vh;
+    
+}
+
+#reviews {
+    background-color: blue;
+    width: 29vw;
+    height: 13vh;
+    border: 0px;
+    font-size: 5vh;
+    margin-bottom: 4vh;
+    margin-top: 6vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+}
+
+#continue {
+    background-color: green;
+    width: 29vw;
+    height: 13vh;
+    border: 0px;
+    font-size: 5vh;
+    margin-top: 2vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+}
+
+#buttons > button {
+    cursor: pointer;
+}

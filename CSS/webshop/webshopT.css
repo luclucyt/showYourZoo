@@ -1,0 +1,263 @@
+#div {
+    display: flex;
+}
+
+.shop {
+    width: 11.9vw;
+    height: 11.9vw;
+
+    border: 0vh black solid;
+
+    cursor: pointer;
+}
+
+.text {
+    position: relative;
+    left: 0.5vw;
+
+    width: 5vw;
+}
+
+.btn {
+    width: 11.9vw;
+    height: 11.9vw;
+    overflow: hidden;
+}
+
+.price {
+    position: relative;
+    top: -25px;
+
+    margin-left: 0.3vw;
+
+    width: 5vw;
+}
+
+.addbtn {
+    font-size: 1vw;
+    position: relative;
+    left: 9vw;
+
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+
+    background-color: rgb(113, 232, 113);
+    color: white;
+    border: 1px green solid;
+    cursor: pointer;
+}
+
+#ProductWrapper {
+    position: relative;
+    top: -45px;
+    left: 20px;
+    display: grid;
+
+    height: auto;
+    width: 62vw;
+
+    grid-template-columns: auto auto auto auto auto;
+    margin-top: 50px;
+}
+
+.removeBTN {
+    position: relative;
+    left: 4.4vw;
+    top: -40px;
+    width: 3.5vw;
+    height: 20px;
+    overflow: hidden;
+    font-size: 0.7vw;
+
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border: 0.1vh darkred solid;
+    font-weight: bold; 
+    cursor: pointer;
+    letter-spacing: 0.01vw;
+}
+
+CART {
+    position: absolute;
+    left: 63vw;
+    top: 300px;
+}
+
+#cart {
+    background-color: rgb(247, 247, 247);
+    border: 0.1vh black solid;
+
+    width: 33.5vw;
+    min-height: 47.3vh;
+    height: auto;
+
+    position: relative;
+    left: 1vw;
+    top: 1vh;
+    padding-bottom: 4.7vh;
+
+    margin-top: -135px;
+}
+
+#heading1 {
+    width: 10vw;
+    position: absolute;
+    left: 0vw;
+
+    margin-top: 0.5vh;
+    margin-left: 0.5vh;
+    border-bottom: 0.2vh black solid;
+}
+
+#heading2 {
+    width: 10vh;
+    position: absolute;
+    left: 13vw;
+
+    margin-top: 0.5vh;
+    margin-left: 0.5vh;
+    border-bottom: 0.2vh black solid;
+}
+
+#heading3 {
+    width: 7.5vh;
+    position: absolute;
+    left: 21vw;
+
+    margin-top: 0.5vh;
+    margin-left: 0.5vh;
+    border-bottom: 0.2vh black solid;
+}
+
+.img {
+    position: relative;
+    top: 2vh;
+    left: 0.5vw;
+
+    width: 7vh;
+    border: 0.1vh black solid;
+}
+
+.name {
+    font-size: 3vh;
+
+    width: fit-content;
+
+    position: relative;
+    top: -4vh;
+    left: 9vh;
+}
+
+.priceCart {
+    font-size: 3vh;
+
+    width: fit-content;
+
+    position: relative;
+    top: -8vh;
+    left: 13.5vw;
+}
+
+.amount {
+    font-size: 2.5vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1vh;
+
+    position: relative;
+    top: -12vh;
+    left: 21.5vw;
+
+    width: 5vh;
+    height: 3vh;
+}
+
+.removeFromCart {
+    background-color: #eb5757;
+    color: white;
+
+    font-weight: bolder;
+
+    position: relative;
+    top: -12.4vh;
+    left: 23vw;
+
+    width: 5.5vw;
+    height: 4vh;
+}
+
+.cartProduct {
+    margin-top: 1vw;
+    height: 6vh;
+}
+
+#total {
+    font-size: 1.5vw;
+    position: relative;
+    left: 1vw;
+    top: 0.5vw;
+}
+
+#Buy {
+    float: right;
+
+    width: 7vw;
+    height: 5vh;
+    background-color: rgb(113, 232, 113);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border: 0.1vh darkgreen solid;
+    position: relative;
+    left: 1vw;
+    top: 0.5vw;
+    cursor: pointer;
+}
+
+#cartwrapper {
+    margin-top: 0.5vh;
+
+    width: 33.5vw;
+    height: fit-content;
+    position: relative;
+}
+
+#ProductNameInput {
+    width: 10vw;
+    height: 20px;
+    border: 1px black solid;
+    border-radius: 5px;
+    position: relative;
+    left: 1vw;
+    top: 50px;
+
+    padding: 5px;
+}
+
+#ProductPriceInput {
+    width: 10vw;
+    height: 20px;
+    border: 1px black solid;
+    border-radius: 5px;
+    position: relative;
+    left: 1vw;
+    top: 55px;
+
+    padding: 5px;
+}
+
+#ProductImgInput {
+    position: relative;
+    left: 0.8vw;
+    top: 57px;
+
+    padding: 0.3vh;
+}
+
+#ProductSubmitInput {
+    position: relative;
+    left: 1vw;
+    top: 60px;
+
+    padding-left: 3px;
+    padding-right: 3px;
+}

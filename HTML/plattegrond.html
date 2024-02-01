@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <script src="../js/map.js"></script>
+    
+    <link rel="stylesheet" href="../CSS/menu_footer/menu.css">
+    <link rel="stylesheet" href="../CSS/plattegrond.css">
+    <title>Map</title>
+</head>
+<header>
+    <div id="bar"> 
+        <img src="../img/menu/logo.png" alt="logo" id="logo">
+
+        <h1 id="menuHeader">Map:</h1>
+        
+        <div class="dropdown">
+            <button class="dropbtn"><img src="../img/menu/menu icon.png" id="menuPNG"></button>
+            <div class="dropdown-content">
+                <a href="../index.html">Home</a>
+                <a href="livesteams/liveCams.html">LiveCams</a>
+                <a href="#">Map</a>
+                <a href="webshop/webshop.php">WebShop</a>
+                <a href="tickets/tickets.html">TicketVerkoop</a>
+                <a href="review.php">Reviews</a>
+                <a href="news.html">Nieuws</a>
+                <a href="Contactpagina.html">Contact</a>
+                <a href="login.html">Admin?</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<body>
+    <div id="divall">
+        <!--hier beginnen!!!-->
+
+        <div id="mapimgdiv">
+            <img src="../img/map/map.png" id="map" alt="map_of_the_park">
+        </div>
+        <br>
+        <div id="knoppen">
+            <button id="fullbutton" onclick="fullmap()">Whole Map</button>
+
+            <button id="northbutton" onclick="northmap()">North Area</button>
+            <br>
+            <button id="westbutton" onclick="westmap()">West Area</button>
+            
+            <button id="eastbutton" onclick="eastmap()">East Area</button>
+        </div>
+    </div>
+</body>
+
+</html>

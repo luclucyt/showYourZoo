@@ -1,0 +1,250 @@
+
+<product>
+<div id="product1">
+<p class="text">Book</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/2.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Book',5.99,2)">ADD</button>
+<div class="price">$5.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="display: block; opacity: 1;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Decor</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/3.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Decor',12.99,3)">ADD</button>
+<div class="price">$12.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Hat</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/6.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Hat',4.99,6)">ADD</button>
+<div class="price">$4.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Mask</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/8.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Mask',3.99,8)">ADD</button>
+<div class="price">$3.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Mug</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/9.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Mug',5.99,9)">ADD</button>
+<div class="price">$5.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Mug</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/11.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Mug',5.99,11)">ADD</button>
+<div class="price">$5.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Mug</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/12.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Mug',5.99,12)">ADD</button>
+<div class="price">$5.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Painting</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/13.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Painting',12.99,13)">ADD</button>
+<div class="price">$12.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Plushy</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/14.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Plushy',9.99,14)">ADD</button>
+<div class="price">$9.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Plushy</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/15.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Plushy',9.99,15)">ADD</button>
+<div class="price">$9.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Plushy</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/16.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Plushy',9.99,16)">ADD</button>
+<div class="price">$9.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Plushy</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/17.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Plushy',9.99,17)">ADD</button>
+<div class="price">$9.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Plushy</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/18.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Plushy',9.99,18)">ADD</button>
+<div class="price">$9.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Poster</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/19.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Poster',14.99,19)">ADD</button>
+<div class="price">$14.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">T-shirt</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/20.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('T-shirt',12.99,20)">ADD</button>
+<div class="price">$12.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">T-shirt</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/21.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('T-shirt',12.99,21)">ADD</button>
+<div class="price">$12.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">T-shirt</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/22.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('T-shirt',12.99,22)">ADD</button>
+<div class="price">$12.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">T-shirt</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/23.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('T-shirt',12.99,23)">ADD</button>
+<div class="price">$12.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+<product>
+<div id="product1">
+<p class="text">Blanket</p>
+<div id="img1">
+<button type="button" onclick="document.location='#'" class="btn">
+<img src="../../img/webshop/27.webp" class="shop">
+</button>
+</div>
+<button type="button" class="addbtn" onclick="addToCart('Blanket',12.99,27)">ADD</button>
+<div class="price">$12.99</div>
+<button type="button" class="removeBTN" onclick="removeProduct()" style="opacity: 1; display: block;">REMOVE</button>
+</div>
+</product>
+
+

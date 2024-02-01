@@ -1,0 +1,43 @@
+#divall {
+    position: absolute;
+    margin-top: 130px;
+    margin-bottom: 5%;
+    width: 100%;
+}
+
+#bestelling {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#gif{
+    width: 20vw;
+    height: auto;
+}
+
+#textvak {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    font-size: 5vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: lightgreen;
+    border-top: 10px solid green;
+    border-bottom: 10px solid green;
+}
+
+#btn{
+    position: absolute;
+    left: 43vw;
+    top: 55vh;
+
+    background-color: rgb(233, 230, 230);
+    width: 25vh;
+    height: 7vh;
+}
+
+#btn:hover{
+    background-color: gray;
+}

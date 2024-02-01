@@ -1,0 +1,110 @@
+#divall {
+    margin-top: 100px;
+    display: grid;
+}
+
+#tekst {
+    font-weight: bold;
+    font-size: 6vh ;
+    margin-top: 70px;
+    margin-left: 30px;
+    width: 40vw;
+    text-decoration: underline;
+}
+
+#knoppen {
+    
+    display: flex;
+}
+
+#normaal {
+    
+    width: 20vw;
+    height: 37vh;
+    margin-left:10vw;
+    margin-top: 80px;
+    background-color: black;
+    border-radius: 15px;
+}
+
+#normaal, #vip, #abo {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#vip {
+    
+    width: 20vw;
+    height: 37vh;
+    margin-left: 10vw;
+    margin-right: 10vw ;
+    margin-top: 80px;
+    background-color: black;
+    border-radius: 15px;
+
+    
+}
+
+#abo {
+    
+    width: 20vw;
+    height: 37vh;
+    margin-right:10vw;
+    margin-top: 80px;
+    background-color: black;
+    border-radius: 15px;
+    
+
+}
+
+.img {
+    
+    width: 20vw;
+    height: 20vw;
+    background-color: black;
+    transition: .5s;
+    border-radius: 15px;
+    
+}
+
+.img:hover {
+    opacity: 0.2;
+    transform :scale(1.1);
+}
+
+h2 {
+    font-size: 4vh;
+}
+
+#nomaleText{
+    padding: 0.5vh;
+    position: relative;
+    left: 4.5vw;
+    top: -23vh;
+    width: fit-content;
+    color: white;
+
+    
+}
+
+#vipText{
+    padding: 0.5vh;
+    position: relative;
+    left: 8vw;
+    top: -23vh;
+    width: fit-content;
+    color: white;
+
+    
+}
+
+#aboText{
+    padding: 0.5vh;
+    position: relative;
+    left: 1.75vw;
+    top: -23vh;
+    width: fit-content;
+    color: white;
+
+    
+}

@@ -1,0 +1,52 @@
+#text1{
+    background-color: rgb(248, 248, 248);
+    width: 45%;
+    height: 66vh;
+
+    margin-left: 1vh;
+    margin-right: 0vh;
+
+    padding-left: 1vh;
+    padding-right: 5vh;
+
+    font-size: large;
+    font-family:'Times New Roman', Times, serif
+}
+
+#pic1{
+    position: absolute;
+    left: 49%;
+    top: 0%;
+
+    height: 66vh;
+    width: 49vw;
+
+}
+#text2{
+    background-color: rgb(248, 248, 248);
+    width: 48.5%;
+    height: 67vh;
+
+    position: relative;
+    left: 48.5vw;
+    top: auto;
+
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+
+    padding-left: 1vh;
+    padding-right: 1vh;
+
+    font-size: large;
+    font-family:'Times New Roman', Times, serif
+}
+
+#pic2{
+    position: absolute;
+    top: 67vh;
+    margin-top: 1vh;
+    margin-left: 1vh;
+
+    width: auto;
+    height: 65vh;
+}

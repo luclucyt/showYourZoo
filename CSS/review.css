@@ -1,0 +1,142 @@
+.usernameD{
+    border: 0.2vh black solid;
+    border-radius: 5px;
+
+    width: fit-content;
+    max-width: 30vw;
+
+    margin-left: 35vw;
+    margin-bottom: 6px;
+
+    position: relative;
+    left: -34vw;
+
+    padding: 5px;
+}
+
+.reviewT{
+    border-radius: 7px;
+    border: 2px black solid;
+
+    width: 50vw;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0.5vw;
+
+    margin-left: 0.5vw;
+    margin-bottom: -32px;
+    margin-top: 60px;
+
+    background-color: gainsboro;
+
+    position: relative;
+    top: -12px;
+    left: 2.5vw;
+}
+
+.star{
+    position: relative;
+    width: 32px;
+    height: 32px;
+
+    margin: 1px;
+}
+
+.starwrapper{
+    border: 2px black solid;
+    border-radius: 7px;
+
+    width: fit-content;
+
+    position: relative;
+    top: -58px;
+    left: 3vw;
+    margin-bottom: -20px;
+}
+
+.DeleteBTN{
+    position: relative;
+    left: 51vw;
+    top: 70px;
+}
+
+
+form{
+    height: 0px;
+}
+
+#FormHeader{
+    position: absolute;
+    top: 70px;
+    left: 60vw;
+
+    width: 250px;
+}
+#username{
+    position: absolute;
+    left: 60vw;
+    top: 100px;
+
+    width: 15vw;
+    padding-left: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    border-radius: 5px;
+    border: 1.5px black solid;
+}
+
+
+#review{
+    position: absolute;
+    left: 60vw;
+    top: 140px;
+
+    width: 35vw;
+    padding-left: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    border-radius: 5px;
+    border: 1.5px black solid;
+}
+
+#starsL{
+    position: absolute;
+    left: 60vw;
+    top: 180px;
+    width: 200px;
+}
+#stars{
+    position: absolute;
+    left: 60vw;
+    top: 200px;
+   
+    width: 50px;
+    padding-left: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    border-radius: 5px;
+    border: 1.5px black solid;
+}
+
+#submit{
+    position: absolute;
+    left: 60vw;
+    top: 240px;
+    
+    width: 7vw;
+    min-width: 100px;
+    height: 45px;
+
+    border-radius: 5px;
+    border: 1.5px black solid;
+
+    background-color: rgb(243, 241, 241);
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: rgb(211, 211, 211);
+}

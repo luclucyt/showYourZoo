@@ -1,0 +1,54 @@
+#divall {
+    margin-top: 116.5px;
+    width: 100%;
+    display: flex;
+
+    background-color:lightgreen;
+}
+
+#mapimgdiv {
+    width: fit-content;
+}
+
+#map{
+    height: 88vh;
+    width: 63vw;
+    border-right: 10px solid green;
+    border-bottom: 10px solid green;
+}
+
+#knoppen{
+    margin: 5%;
+}
+
+#fullbutton {
+    background-color: rgb(0, 155, 0);
+    padding: 50px;
+    margin-right: 1px;
+    
+
+}
+
+#westbutton {
+    background-color: rgb(255, 255, 169);
+    padding: 50px;
+    padding-left:  54px; 
+    padding-right: 54px;
+    margin-right: 2px;
+    margin-top: 7px;
+
+}
+
+#northbutton {
+    background-color: rgb(226, 178, 206);
+    padding: 50px;
+}
+
+#eastbutton {
+    background-color: rgb(199, 230, 237);
+    padding: 50px;
+    padding-left: 54px ; 
+    padding-right: 54px ;
+    margin-top: 7px;
+
+}

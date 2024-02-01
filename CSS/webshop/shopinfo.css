@@ -1,0 +1,47 @@
+.shop{
+    width: 11.3vw;
+    height: 22.9vh;
+
+    border: 0vh black solid;
+}
+
+.btn{
+    width: auto;
+    height: 22.9vh;
+   
+    margin-left: 0.5vw;
+    margin-top: 1vh;
+    border-radius: 0.1vh;
+    
+    cursor: pointer;
+}
+
+#text{
+    position: absolute;
+    left: 0.7vw;
+    top: -15px;
+
+    font-weight: bold;
+    font-size: large;
+}
+
+.price{
+    position: relative;
+    top: -0.3vh;
+    left: 0.7vw;
+    text-align: left;
+    font-size: large;
+}
+
+.btn1ADD{
+    font-size: large;
+    position: absolute;
+    left: 6.9vw;
+    top: 24vh;
+    width: 5vw;
+}
+
+PRODUCT1{
+    position: relative;
+    top: 100000vh;
+}
