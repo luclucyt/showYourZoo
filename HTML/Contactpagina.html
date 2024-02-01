@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="../CSS/menu_footer/menu.css">
+    <link rel="stylesheet" href="../CSS/Contact.css">
+    <title>Contact</title>
+</head>
+<header>
+    <div id="bar"> 
+        <img src="../img/menu/logo.png" alt="logo" id="logo">
+
+        <h1 id="menuHeader">Lets get in touch:</h1>
+        
+        <div class="dropdown">
+            <button class="dropbtn"><img src="../img/menu/menu icon.png" id="menuPNG"></button>
+            <div class="dropdown-content">
+                <a href="../index.html">Home</a>
+                <a href="livesteams/liveCams.html">LiveCams</a>
+                <a href="plattegrond.html">Map</a>
+                <a href="webshop/webshop.php">WebShop</a>
+                <a href="tickets/tickets.html">TicketVerkoop</a>
+                <a href="review.php">Reviews</a>
+                <a href="news.html">Nieuws</a>
+                <a href="#">Contact</a>
+                <a href="login.html">Admin?</a>
+            </div>
+          </div>
+    </div>
+</header>
+    
+<body>
+    <div id="divall">
+        <!--hier beginnen!!!-->
+        <div id="contact">
+            <form action="https://bijlsma.ict-lab.nl/basis1b/form_verwerk.php" method="post">
+                
+                <label id="FnameL">First name:</label><br>
+                <input type="text" placeholder="First name" id="Fname" name="First name"><br><br>
+
+                <label id="LnameL">Last name:</label><br>
+                <input type="text" placeholder="Last name" id="Lname" name="Last name"><br><br>
+
+                <label id="emailL">E-mail</label><br>
+                <input type="email" placeholder="E-mail" id="email" name="E-mail"><br><br>
+
+                <label id="mainL">Explain</label><br>
+                <textarea type="text" placeholder="Explain it here :)" id="main" name="Discripion" style="height: 200px;"></textarea><br><br>
+
+                <button type="submit" id="submit">Sent</button>
+            </form>
+        </div>
+
+        <div id="tijden">
+            <h2>Opening hours:</h2>
+            <ul>
+                <li>Monday: 8-20</li>
+                <li>Tuesday: 8-20</li>
+                <li>Wednesday: 8-20</li>
+                <li>Thursday: 8-20</li>
+                <li>Friday:8-21</li>
+                <li>Saturday: 8-22</li>
+                <li>Sunday: 9-22</li>
+            </ul>
+        </div>
+        <div id="phone">
+            <h2>Reach us over phone:</h2>
+            <p>778-330-2389</p>            
+        </div>
+        <div id="adderes">
+            <h2>Pay us a visit:</h2>
+           <p>China, Bei Jing Shi, Xi Cheng Qu, <br>西直门外大街137号 邮政编码: 100044</p>
+        </div>
+    </div> 
+</body>
+
+</html>

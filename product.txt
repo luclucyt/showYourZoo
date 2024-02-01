@@ -1,0 +1,282 @@
+ <!-- <PRODUCT>
+                    <div id="product1">
+                        <p class="text">Blanket</p>
+                        <div id="img1">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/blankets.webp" class="shop">
+                            </button>
+                        </div>
+
+                        <button type="button" class="addbtn" onclick="addToCart1(1)">ADD</button>
+                        <div class="price">$7.99</div>
+                        <button type="button" class="removeBTN" onclick="removeProduct()">REMOVE</button>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product2">
+                    <p class="text">Book</p>
+                        <div id="img2">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/books1.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(2)">ADD</button>
+                        <div class="price">$5.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product3">
+                        <p class="text">Decor</p>
+                        <div id="img3">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/decor1.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn"onclick="addToCart1(3)">ADD</button>
+                        <div class="price">$12.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product4">
+                    <p class="text">Hat</p>
+                        <div id="img4">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/hat.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(4)">ADD</button>
+                        <div class="price">$4.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product5">
+                    <p class="text">Hoodie</p>
+                        <div id="img5">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/hoodi1.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(5)">ADD</button>
+                        <div class="price">$17.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product6">
+                    <p class="text">Masks</p>
+                        <div id="img6">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/mask1.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(6)">ADD</button>
+                        <div class="price">$3.99</div>
+                    </div>
+                </PRODUCT>
+                
+                <PRODUCT>
+                    <div id="product7">
+                        <p class="text">Mug</p>
+                        <div id="img7">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/mug1.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(7)">ADD</button>
+                        <div class="price">$5.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product8">
+                        <p class="text">Mug</p>
+                        <div id="img8">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/mug2.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(8)">ADD</button>
+                        <div class="price">$5.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product9">
+                        <p class="text">Mug</p>
+                        <div id="img9">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/mug3.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(9)">ADD</button>
+                        <div class="price">$5.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product10">
+                    <p class="text">Painting</p>
+                        <div id="img10">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/painting1.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(10)">ADD</button>
+                        <div class="price">$19.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product11">
+                    <p class="text">Plushy</p>
+                        <div id="img11">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/plush1.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(11)">ADD</button>
+                        <div class="price">$9.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product12">
+                    <p class="text">Plushy</p>
+                        <div id="img12">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/plush2.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(12)">ADD</button>
+                        <div class="price">$9.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product13">
+                        <p class="text">Plushy</p>
+                        <div id="img13">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/plush3.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(13)">ADD</button>
+                        <div class="price">$9.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product14">
+                        <p class="text">Plushy</p>
+                        <div id="img14">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/plush4.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(14)">ADD</button>
+                        <div class="price">$9.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product15">
+                        <p class="text">Plushy</p>
+                        <div id="img15">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/plush5.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(15)">ADD</button>
+                        <div class="price">$9.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product16">
+                        <p class="text">Poster</p>
+                        <div id="img16">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/poster1.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(16)">ADD</button>
+                        <div class="price">$14.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product17">
+                        <p class="text">T-shirt</p>
+                        <div id="img17">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/tShirt.webp" class="shop">
+                            </button>
+                        </div>
+                    
+                        <button type="button" class="addbtn" onclick="addToCart1(17)">ADD</button>
+                        <div class="price">12.99</div>
+                    </div>
+
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product18">
+                        <p class="text">T-shirt</p>
+                        <div id="img18">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/tShirt2.webp" class="shop">
+                            </button>
+                        </div>
+                        
+                        <button type="button" class="addbtn" onclick="addToCart1(18)">ADD</button>
+                        <div class="price">$12.99</div>
+                    </div>
+
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product19">
+                        <p class="text">T-shirt</p>
+                        <div id="img19">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/tShirt3.webp" class="shop">
+                            </button>
+                        </div>
+
+                        <button type="button" class="addbtn" onclick="addToCart1(19)">ADD</button>
+                        <div class="price">$12.99</div>
+                    </div>
+                </PRODUCT>
+
+                <PRODUCT>
+                    <div id="product20">
+                        <p class="text">T-shirt</p>
+                        <div id="img20">
+                            <button type="button" onClick="document.location='#'" class="btn">
+                                <img src="../../img/shop/tShirt4.webp" class="shop">
+                            </button>
+                        </div>
+
+                        <button type="button" class="addbtn" onclick="addToCart1(20)">ADD</button>
+                        <div class="price">$12.99</div>
+                    </div>
+                </PRODUCT> -->
